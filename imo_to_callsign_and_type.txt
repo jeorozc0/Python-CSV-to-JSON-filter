@@ -1,0 +1,38 @@
+IMO     Callsign        VesselType
+5898610 WCY5117 Pusher/Tug
+5683467 RAI     Pusher/Tug
+5557230 B9037   Fishing vessel
+5481900 VORD    Pusher/Tug
+5429201 D2D8G2  Pusher/Tug
+5429081 ERAH    Special Purpose
+5428817 XPMB    Fishing vessel
+5428702 E5U2579 Pusher/Tug
+5428439 PPPS    Special Purpose
+5428233 OJOR    Ship
+5427784 JVWG6   Pilot tender
+5427631 MHMV    Ship
+5427370 EILZ    Special Purpose
+5427019 SALVOR  Pusher/Tug
+5425619 SV6732  Pusher/Tug
+5424990 UIBX    Tanker
+5424562 LIXN    Passenger ship
+5424380 TFAA    Special Purpose
+5423788 CFD8101 Fishing vessel
+5422540 SGFI    Passenger ship
+5422203 OITW    Liquefied gas carrier
+5420724 HP6016  Pilot tender
+5419244 DDTC    Pusher/Tug
+5419086 CYJZ    Yacht
+5418719 CFD7756 Fishing vessel
+5418381 5VAQ5   Oil tanker
+5418197 UBWX    Ice breaker
+5417753 SV4195  Ship
+5417210 XPPI    Trawler
+5416852 SEIP    RoRo ship
+5416553 HP5608  Passenger ship
+5416280 3WGU    General cargo vessel
+5415092 CB4277  Cargo ship
+5414464 HO4478  General cargo vessel
+5412026 OIWX    Pusher/Tug
+5411917 —       Ship
+5409586 CYLY    RoRo ship
